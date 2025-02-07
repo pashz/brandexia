@@ -1,0 +1,3 @@
+[submodule "agentic-ethereum-project"]
+	path = agentic-ethereum-project
+	url = https://github.com/pashz/agentic-ethereum-project.git
